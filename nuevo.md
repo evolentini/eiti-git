@@ -2,4 +2,4 @@
 
 Esta es la primera version del nuevo archivo.
 
-Esta es una edición conflictiva.
+Ahora cambiamos el archivo nuevo
